@@ -25,7 +25,9 @@ Use Otsu's method to segment the image.
 
 ### Step 6:
 Display the results.
-
+##
+NAME:THMARAI SELVAN.
+REGISTER NUMBER:212221230115
 ## Program
 
 ```python
